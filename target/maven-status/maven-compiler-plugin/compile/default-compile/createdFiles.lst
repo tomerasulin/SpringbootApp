@@ -1,0 +1,6 @@
+il\example\MainApplication.class
+il\example\controllers\Controller.class
+il\example\model\Item.class
+il\example\repositories\ItemRepository.class
+il\example\services\ItemService.class
+il\example\services\ItemServiceImpl.class
